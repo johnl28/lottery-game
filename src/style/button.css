@@ -1,0 +1,13 @@
+
+
+
+.button {
+  padding: 10px;
+  padding-inline: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  animation: push 0.5s;
+}
+
+
+

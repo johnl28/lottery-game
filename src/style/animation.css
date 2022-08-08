@@ -1,0 +1,14 @@
+
+@keyframes push{
+  50%  {
+    transform: scale(0.8);
+  }
+}
+
+
+@keyframes slide-up {
+  0%  {
+    transform: translateY(500px);
+  }
+
+}
